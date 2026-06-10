@@ -40,5 +40,5 @@ La aplicación ha sido diseñada e implementada bajo los estándares web solicit
 ### Instrucciones de Uso Local
 1. Clonar este repositorio en tu máquina local:
 ```bash
-   git clone [https://github.com/TheAsesink/PracticaUnidad1.git](https://github.com/TheAsesink/PracticaUnidad1.git)
+   git clone "https://github.com/TheAsesink/PracticaUnidad1.git"
 ```
