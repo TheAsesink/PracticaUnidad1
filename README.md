@@ -5,8 +5,8 @@ Este repositorio contiene el desarrollo de la **Práctica Experimental de la Uni
 ---
 
 ## 👥 Integrantes (Equipo D)
-* **CASTRO ESPINOZA KEVIN MOISES**
-* **ESCUDERO PLAZA MARIA DEL ROSARIO**
+* **CASTRO ESPINOZA KEVIN MOISÉS**
+* **ESCUDERO PLAZA MARÍA DEL ROSARIO**
 * **LOOR MEDRANDA MARLON TAYLOR**
 
 **Profesor:** Mgs. Guerrero Ulloa Gleiston Cicerón  
